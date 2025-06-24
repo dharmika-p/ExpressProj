@@ -1,0 +1,22 @@
+23:06:2025	23:17:44	68249d4b-4be1-4635-8864-08ce7cbe3664	Error: ENOENT: no such file or directory, stat '/Users/dharmikasai/Desktop/ExpressProj/view/404.html'
+23:06:2025	23:18:03	20256840-9c66-4e01-aa2a-c62d91e8e72e	Error: ENOENT: no such file or directory, stat '/Users/dharmikasai/Desktop/ExpressProj/view/404.html'
+23:06:2025	23:53:41	31162db7-2119-4a08-b638-54f07c936ebd	Error: ENOENT: no such file or directory, stat '/Users/dharmikasai/Desktop/ExpressProj/routes/views/index.html'
+23:06:2025	23:53:43	71becea5-72c6-4bba-87e0-9877e041f965	Error: ENOENT: no such file or directory, stat '/Users/dharmikasai/Desktop/ExpressProj/routes/views/index.html'
+24:06:2025	00:31:29	eb3bcc2b-e75f-488f-aaa3-a51705e59c41	TypeError: Cannot read properties of undefined (reading 'firstname')
+24:06:2025	00:33:16	89ade5ca-cece-48e6-9fde-ab58e2c8d981	SyntaxError: Expected ',' or '}' after property value in JSON at position 38 (line 3 column 5)
+24:06:2025	01:33:35	57977a71-5875-4598-adfc-72552749c79a	ReferenceError: emp_id is not defined
+24:06:2025	01:39:03	1efb87fb-aefa-4d78-ab95-77225e1c2d18	ReferenceError: sortedArray is not defined
+24:06:2025	02:07:11	186f910f-835b-4099-8926-d49eef2efeea	SyntaxError: Expected ',' or '}' after property value in JSON at position 30 (line 3 column 5)
+24:06:2025	02:58:01	1d8b22fb-4783-48c7-a303-47b0aee515ce	TypeError: usersDB.setUSers is not a function
+24:06:2025	03:00:39	2e0b73ef-c4ef-42e9-98db-a89bb1eb4b46	TypeError: usersDB.setUSers is not a function
+24:06:2025	03:00:55	bed6162c-f4dd-42fa-803f-e774d24692d6	TypeError: usersDB.setUSers is not a function
+24:06:2025	03:20:35	a648df06-ece6-43ac-a0b4-1618ba632e4f	ReferenceError: path is not defined
+24:06:2025	03:22:08	5cfe75d7-a590-47f4-a540-73af0e261389	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	03:22:09	3cf19582-caa9-4095-b2dc-d739b8e700a5	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	03:22:14	ab97d302-217e-489b-a1a6-4d5199a4b508	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	03:42:05	29698846-0e76-4880-8087-2e38a56c326e	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	18:01:50	d5d51c54-2099-462a-a183-cdf6a12fa51f	SyntaxError: Expected ',' or '}' after property value in JSON at position 29 (line 3 column 5)
+24:06:2025	18:29:01	9d622526-c2af-429b-9f6a-8ef6d7dbbdc8	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+24:06:2025	19:02:50	504c4c67-a18e-4850-9ca7-348a59b2872f	ReferenceError: path is not defined
+24:06:2025	19:03:26	6bf9664c-92af-49b0-a01e-3ced544874af	SyntaxError: Expected double-quoted property name in JSON at position 38 (line 4 column 1)
+24:06:2025	19:06:50	321fd287-3c52-4974-bead-3e557942546c	ReferenceError: path is not defined
