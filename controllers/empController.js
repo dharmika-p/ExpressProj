@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path =require('path');
 
 
 const data = {
@@ -47,7 +48,7 @@ const updateEmployee = (req, res) => {
     data.setEmployee(unsortedArray);
 
     fs.writeFile(
-        path.join(__dirname, 'data', 'employees.json'),
+        path.join(__dirname, '..','models', 'employees.json'),
         JSON.stringify(unsortedArray, null, 2),
         () => {}
     );

@@ -106,3 +106,17 @@
 24:06:2025	19:07:32	cde5237a-8a41-49b5-a467-68290826c0e3	GET	undefined	/api/employee
 24:06:2025	19:07:40	690b7e1c-ed8a-43a9-8d25-0bf47366f009	GET	undefined	/auth
 24:06:2025	19:08:18	7fe6ace3-55aa-4fde-b8db-d99842e0d7e2	POST	undefined	/auth
+24:06:2025	19:39:08	f07a3956-5f06-4762-a5e3-5dbbb2855c35	GET	undefined	/auth
+24:06:2025	19:39:15	97ddcb08-0518-4a85-b80e-db7f1a337d54	POST	undefined	/auth
+24:06:2025	19:39:41	6d8ab5be-0937-4ca4-ab27-d6be03bdb191	GET	undefined	/api/employee
+24:06:2025	19:40:37	39f692fc-d86d-4216-a484-03a85bef4dac	POST	undefined	/api/employee
+24:06:2025	19:45:37	93f0cc71-ff00-4348-9c52-884a0164f1f1	POST	undefined	/api/employee
+24:06:2025	19:45:47	19966984-f3da-4cb8-a719-2ccfaf11fb82	GET	undefined	/auth
+24:06:2025	19:46:24	9c0b197d-acc0-4c31-b50a-4936e5b4c789	GET	undefined	/auth
+24:06:2025	19:46:35	86d86c9c-21d5-400d-83a9-880c5b63b692	GET	undefined	/auth
+24:06:2025	19:47:00	d47fa4c8-2baf-4bdb-9a91-e28c2c928b47	GET	undefined	/auth
+24:06:2025	19:47:04	6547ece4-925c-4336-9109-199685256642	POST	undefined	/auth
+24:06:2025	19:47:28	b32617e1-7f56-4727-856f-f077302131d6	GET	undefined	/api/employee
+24:06:2025	19:47:57	370f341b-4805-46d8-be09-2d12caa6dce5	POST	undefined	/api/employee
+24:06:2025	19:48:25	ab5d0b30-11fa-4218-bb2a-690ea0f29be0	PUT	undefined	/api/employee
+24:06:2025	19:48:50	1c4d7f69-9b01-4f4b-aa94-0e94ccfafe84	DELETE	undefined	/api/employee
